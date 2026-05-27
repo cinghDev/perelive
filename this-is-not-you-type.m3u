@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=TTMrOWpiSlJXV3JFTWdTMXVIVGllS2REZE0xVTNkeGhqK3pQT0dmcnVIYThnUUFwemdzUGxhQUpWbkFrUFd2Z2ZFa3hYemsvOXhpS01ONlNONFdZWHRMV2pRTi9IWDc0L0ExdnFNbEplVnV6SitHbnZMc2NPTC9EMyt2UFB6WXg=
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=TTMrOWpiSlJXV3JFTWdTMXVIVGllS2REZE0xVTNkeGhqK3pQT0dmcnVIYThnUUFwemdzUGxhQUpWbkFrUFd2Z0ZVRzgrWGU3Mlh1R1ZETC84NnlLNDM5RnNoRWNTdktkT0g1cDd6cm56dGFuQnV6MzFZWW15M2d2V21PbEFyd3c=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=22
@@ -117,16 +117,15 @@ https://demo.drmlive.net/live/nowtv/4081.mpd
 https://demo.drmlive.net/live/kayo/53208/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/kayohindi2.mpd
+#EXTINF:-1 tvg-logo="https://media.kayosports.com.au/content/dam/nc/fc/sm/kyo/prl/media-centre/logos/KayoSportsLogoNegative.png" group-title="Cricket",Kayo Hindi 2
+#https://mix.drmlive.net/mix/kayohindi2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/kayohindi1.mpd
 #EXTINF:-1 tvg-logo="https://media.kayosports.com.au/content/dam/nc/fc/sm/kyo/prl/media-centre/logos/KayoSportsLogoNegative.png" group-title="Cricket",Kayo Hindi 1
 https://mix.drmlive.net/mix/kayohindi1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/kayohindi2.mpd
-#EXTINF:-1 tvg-logo="https://media.kayosports.com.au/content/dam/nc/fc/sm/kyo/prl/media-centre/logos/KayoSportsLogoNegative.png" group-title="Cricket",Kayo Hindi 2
-https://mix.drmlive.net/mix/kayohindi2.mpd
 
 #EXTINF:-1 group-title="Cricket",Event 1
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
@@ -187,6 +186,22 @@ https://mix.drmlive.net/mix/star-6.m3u8
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://mix.drmlive.net/mix/star-6.m3u8?audio=hin
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Cricket",Sony Ten Cricket
+https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports",Euro Sports HD
+https://bd.drmlive.net/toffee/cdn/live/euro_sports_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="Entertainment",Hum TV
+https://bd.drmlive.net/toffee/cdn/live/hum_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="Entertainment",Hum Masala
+https://bd.drmlive.net/toffee/cdn/live/hum_masala/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="Entertainment",Hum Sitaray
+https://bd.drmlive.net/toffee/cdn/live/hum_sitaray/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/drmlive/mix/refs/heads/main/fancode.png" group-title="Cricket",Fancode Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.5563.58 Mobile Safari/537.36
@@ -3573,8 +3588,6 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=698423057
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=417554543
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/698018216.jpg" group-title="Music",9X Tashan
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216
-#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Music",Only Music
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=417344236
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Music",Just In
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=417479419
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-441.png" group-title="Music",PUBLIC MUSIC
