@@ -1,11 +1,13 @@
 #EXTM3U
-# Updated: 2026-05-31 18:39:40.701331
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018856/178012785200015_RG26_Andreeva_V_Teichmann_landscape_thumb_SP.jpg" group-title="SONAY EVENTS", Roland-Garros 2026 | Court Suzanne Lenglen - 31 May 2026
+# Updated: 2026-05-31 19:55:07.423828
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127854000572_RG26_Ruud_vs_Fonseca_landscape_thumb_SP.jpg" group-title="SONAY EVENTS", Roland-Garros 2026 | Casper Ruud vs Joao Fonseca - Round 4 - 31 May 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090531581" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149741375950_INT_Friendlies26_Germany-vs-Finland_landscape_thumb.jpg" group-title="SONAY EVENTS",  UEFA International Friendlies | Germany vs Finland - 1 Apr 2026
+https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018857/1780127862000887_RG26_Mensik_vs_Rublev_landscape_thumb_SP.jpg" group-title="SONAY EVENTS", Roland-Garros 2026 | Jakub Mensik vs Andrey Rublev - Men's Singles - 31 May 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531580" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018881/1780172815395390_INT_Friendlies26_Poland_vs_Ukraine_31may_landscape_thumb.jpg" group-title="SONAY EVENTS", UEFA International Friendlies | Poland vs Ukraine - 31 May 2026
-https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 31-05-2026
+# Last Update: 01:30 AM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
