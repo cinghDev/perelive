@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=TTMrOWpiSlJXV3JFTWdTMXVIVGllS2REZE0xVTNkeGhqK3pQT0dmcnVIYThnUUFwemdzUGxhQUpWbkFrUFd2Z2pCWmpIYU1QdE5FT0w1enJwUEhvZmxSTTBGRFovS3BzUkhsZ3FXcUxOdkc4TjRvelVzR3JzcDBvaXRLYnB3RUM=
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=TTMrOWpiSlJXV3JFTWdTMXVIVGllS2REZE0xVTNkeGhqK3pQT0dmcnVIYThnUUFwemdzUGxhQUpWbkFrUFd2Z05Vb0JrN3UzS0dCNjVRZ0hCVHRTRTFrcG9PUnNpZDVwc1NnRXFEOU51dUhJa3lvWEVpcENucld5VnF1Y0VyU1o=
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=22
@@ -3085,6 +3085,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=695286272
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=923060617
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/088350188.jpg" group-title="News",IN 24 News
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=088350188
+#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/463851330.jpeg" group-title="News",CNBC Awaaz
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=463851330
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/349141515.jpeg" group-title="News",KBC News
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=349141515
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/354624659.jpeg" group-title="News",Prime TV
@@ -3309,6 +3311,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-25
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-24
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-26.png" group-title="Infotainment",DD PODHIGAI
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-26
+#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-16.png" group-title="Infotainment",DD KASHIR
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-16
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/133344748.jpeg" group-title="Infotainment",Desh Punjab Tv
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=133344748
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-32.png" group-title="Infotainment",DD ARUNPRABHA
